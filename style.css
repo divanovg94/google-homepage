@@ -1,0 +1,93 @@
+#div_google {
+
+ margin: 0;
+  padding: 0;
+  text-align: center;
+
+
+}
+
+#img_google {
+height:12%;
+width:24%;
+margin-top:10%;
+padding-top:2em;
+
+}
+#search{
+width:35%;
+height:5%;
+background-color: #F0FFFF;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+
+border-color:#F8F8FF;
+
+
+  }
+#submit_search{
+	margin-top:1em;
+
+/*float: right;*/
+width:100px;
+height:30px;
+color:grey;
+
+}
+#buttons {
+	margin-right:10%;
+
+}
+
+#real_google {
+
+	margin-right:0;
+width:100px;
+height:30px;
+margin-bottom: :2em;
+background-color: 
+border-color:#F8F8FF;
+color:grey;
+
+}
+
+form{
+	margin:2em;
+}
+.main_header {
+ padding:10px;
+}
+
+header{
+	float:right;
+	margin-right:2em;
+}
+a {
+      text-decoration:none;
+      color:#696969;
+   }
+
+ .left_footer{
+padding:10px;
+ }
+
+
+#main_footer{
+	  position:absolute;
+   bottom:1em;
+   width:98%;
+/*   height:10px; */ 
+ 
+}
+.right_footer{
+/*	margin-bottom:20px;*/
+float:right;
+padding-left:8px;
+
+}
+
+#real{
+	padding:20px;
+}
+
